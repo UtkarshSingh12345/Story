@@ -1,0 +1,12 @@
+first we init a git and then we make some files on it.
+and then make a .gitignore file and save all the files inside it.
+and all the files get ignored by git in the master,action and the locla stage.
+and then we do git add .  and then we do commit by git commit -m "ile name".
+To clone things you go to the github account and which ever file you want take the url .
+and come to your master repository and do cloning by git clone link.
+and donot commit it .
+and now to make a experimaental branch we have made a git branch "branch name".
+and then if we made anything in the branch nothin will be happen to the original branch .
+so you can make many original baranch and switch to any branch by git checkout "branch name".
+now to add things from local stage to the remote stage we write git remote add origin "link of remote repository".
+now to push it git push origin master.
